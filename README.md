@@ -10,7 +10,7 @@
 
 > Tela Inicial do Aplicativo Mobile
 <h1 align="center">
-    <img alt="HOME" src="img\appList.jpeg" width="400px" height="800px" />
+    <img alt="HOME" src="img\appList.jpeg" width="337px" height="600px" />
 </h1>
 
 
