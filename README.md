@@ -5,8 +5,21 @@
 
 - Aplicativo Mobile desenvolvido utilizando React Native.
 
+## Instalação e Executando
 
+ - Clone:
+`https://github.com/PrJnr/RepositoriesReact-Native.git`
 
+ - Instalando as Depêndencias:
+`yarn` ou `npm install`
+
+ - Executando o Projeto:
+    -Android:
+    `yarn react-native run-android`
+    -iOS
+    `yarn react-native run-ios`
+
+## Views
 
 > Tela Inicial do Aplicativo Mobile
 <h1 align="center">
@@ -17,7 +30,7 @@
 > Tela com o Perfil do Usuário e os seus projetos com estrela
 
 <h1 align="center">
-    <img alt="HOME" src="img\appList02.jpeg"  />
+    <img alt="HOME" src="img\appList02.jpeg" width="337px" height="600px"  />
 </h1>
 
 
