@@ -3,7 +3,7 @@
 
 <h2 align="center" > List de Usuários do Github </h2>
 
-- Aplicativo Mobile desenvolvido utilizando React Native.
+- Aplicativo Mobile desenvolvido utilizando React Native consumindo a API do @Github 
 
 ## Instalação e Executando
 
