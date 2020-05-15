@@ -3,14 +3,14 @@
 
 <h2 align="center" > List de Usuários do Github </h2>
 
-Aplicativo Mobile desenvolvido utilizando React Native.
+- Aplicativo Mobile desenvolvido utilizando React Native.
 
 
 
 
 > Tela Inicial do Aplicativo Mobile
 <h1 align="center">
-    <img alt="HOME" src="img\appList.jpeg"  />
+    <img alt="HOME" src="img\appList.jpeg" width="100px" height="300px" />
 </h1>
 
 
